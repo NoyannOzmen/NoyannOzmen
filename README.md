@@ -1,4 +1,4 @@
-# Hello World ! 🐈‍⬛
+# Hello World !🐱
 
 ### 💾 Here's my current skillset (forever WIP)
 ### Dev
