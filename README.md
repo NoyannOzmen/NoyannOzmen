@@ -47,7 +47,7 @@
 ![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![DOCTRINE](https://img.shields.io/badge/doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
 ![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-### Currently looking into
+
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 <!--
