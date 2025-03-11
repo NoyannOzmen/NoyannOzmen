@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/Ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=white)
 ![REACT](https://img.shields.io/badge/React%20js-20232A?style=for-the-badge&logo=react&logoColor=white)
-![NEXT](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![VITE](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=F7DF1E)
 ![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![BULMA](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
@@ -50,6 +49,13 @@
 
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+<!--
+### Currently looking into
+![NEXT](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![BUN](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+-->
+
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
