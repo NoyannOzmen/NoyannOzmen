@@ -42,6 +42,7 @@
 
 ### Work In Progress
 ![NEXT](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SYMFONY](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
@@ -51,10 +52,9 @@
 
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+<!--
 ### Currently looking into
-![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
+-->
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
