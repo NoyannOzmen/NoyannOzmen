@@ -14,8 +14,9 @@
 ![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SEQUELIZE](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![MONGODB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TYPEORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)  
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![JEST](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/cypress-69d3a7?style=for-the-badge&logo=cypress&logoColor=white)  
@@ -46,10 +47,9 @@
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VIRTUALBOX](https://img.shields.io/badge/Virtualbox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
 -->
-
-<!--
 ### Currently looking into
--->
+![LARAVEL](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![LIVEWIRE](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)  
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
