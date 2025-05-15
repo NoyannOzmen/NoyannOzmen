@@ -28,6 +28,7 @@
 ### Work In Progress  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SYMFONY](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![DOCTRINE](https://img.shields.io/badge/doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
 ![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
@@ -48,7 +49,6 @@
 ![VIRTUALBOX](https://img.shields.io/badge/Virtualbox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
 -->
 ### Currently looking into
-![LARAVEL](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LIVEWIRE](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)  
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
