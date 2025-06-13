@@ -51,7 +51,6 @@
 -->
 ### Currently looking into
 ![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
--->
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
