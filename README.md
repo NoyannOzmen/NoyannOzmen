@@ -47,9 +47,10 @@
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VIRTUALBOX](https://img.shields.io/badge/Virtualbox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-### Currently looking into
 ![LIVEWIRE](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+-->
+### Currently looking into
+![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
 -->
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
