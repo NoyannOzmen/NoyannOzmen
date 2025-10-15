@@ -51,7 +51,12 @@
 ### Currently looking into
 ![LIVEWIRE](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+![NUMPY](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SCIPY](https://img.shields.io/badge/-scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 -->
+### Currently looking into
+![ANGULAR](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white)
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
