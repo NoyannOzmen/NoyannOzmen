@@ -34,6 +34,7 @@
 ![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![ANGULAR](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white)  
 <!--
 ##### Packages
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
@@ -55,8 +56,7 @@
 ![NUMPY](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SCIPY](https://img.shields.io/badge/-scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 -->
-### Currently looking into
-![ANGULAR](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white)
+
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
