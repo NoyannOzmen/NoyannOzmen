@@ -51,10 +51,16 @@
 
 ### Currently looking into
 ![LIVEWIRE](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SCIPY](https://img.shields.io/badge/-scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+-->
+
+<!--
+### Currently looking into
+![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
+![MAVEN](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 -->
 
 <!--
