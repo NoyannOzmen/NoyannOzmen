@@ -60,7 +60,8 @@
 ### Currently looking into
 ![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
 ![MAVEN](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![SPRINGBOOT](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![SPRINGBOOT](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 -->
 
 <!--
