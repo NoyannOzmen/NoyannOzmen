@@ -26,6 +26,7 @@
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### Work In Progress  
+![ANGULAR](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SYMFONY](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
@@ -34,7 +35,11 @@
 ![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![ANGULAR](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white)  
+![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
+![MAVEN](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
 <!--
 ##### Packages
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
@@ -55,13 +60,10 @@
 ![NUMPY](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SCIPY](https://img.shields.io/badge/-scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 -->
-
+<!--
 ### Currently looking into
-![JAVA](https://img.shields.io/badge/JAVA-F89917?style=for-the-badge&logoColor=white)
-![MAVEN](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![SPRINGBOOT](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)  
+-->
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
