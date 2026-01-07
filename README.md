@@ -58,12 +58,13 @@
 ![LIVEWIRE](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SCIPY](https://img.shields.io/badge/-scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
--->
-<!--
-### Currently looking into
+![SCIPY](https://img.shields.io/badge/-scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)  
 -->
+### Currently looking into
+![RUST](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ACTIXWEB](https://img.shields.io/badge/-Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
+![SEAORM](https://img.shields.io/badge/SeaORM-1C7DE3?style=for-the-badge&logoColor=white)  
 <!--
 **NoyannOzmen/NoyannOzmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
